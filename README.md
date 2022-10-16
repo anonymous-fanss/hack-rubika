@@ -1,1 +1,1 @@
-# hack-rubika
+# hack-rubik
