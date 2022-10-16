@@ -41,7 +41,7 @@ try:
     os.system("clear")
 except:
     os.system("cls")
-logo = ['anonymous','rubika . ir','rubika','cracking','CrAcKeR','6 6 6']
+logo = ['anonymous fanss']
 banner = (random.choice(logo))
 print ('\033[91m')
 time.sleep(2)
